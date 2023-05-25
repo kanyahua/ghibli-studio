@@ -1,0 +1,16 @@
+.app-header {
+    border-bottom: 1px solid gray;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .header-name {
+    font-size: 30px;
+    font-weight: lighter;
+  }
+  
+  .app-header-logo {
+    height: 200px;
+  }
